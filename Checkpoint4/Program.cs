@@ -7,6 +7,7 @@ namespace Checkpoint4
         static void Main(string[] args)
         {
             Console.WriteLine("Avengers: Infinity War");
+            Console.WriteLine("Star Wars");
             Console.WriteLine("Terminator");
         }
     }
