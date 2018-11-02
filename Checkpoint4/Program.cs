@@ -7,6 +7,7 @@ namespace Checkpoint4
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("En Hello World! enligt uppgift");
         }
     }
 }
